@@ -1,0 +1,19 @@
+{
+  "name": "task9",
+  "version": "1.0.0",
+  "description": "description colors",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TenAndr/npmtask9.git"
+  },
+  "author": "Ten",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TenAndr/npmtask9/issues"
+  },
+  "homepage": "https://github.com/TenAndr/npmtask9#readme"
+}
